@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HernanBritosBogado
+- 👋 Hi my name is Hernan! 
 - 👀 I’m interested in Backend Development - Blockchain Development
 - 🌱 I’m currently learning Solidity- ETH|Blockchain development
 - 💞️ I’m looking to collaborate on Dapps 
